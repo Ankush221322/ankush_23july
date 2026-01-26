@@ -1,4 +1,5 @@
 ankush ki repo
+<<<<<<< HEAD
 satya ki repo
 gourav ki repo
 ambuhj ki swari
@@ -10,3 +11,6 @@ KEEP Quit
 =======
 keep shinning
 >>>>>>> bd11393f6e970fb523353dac529f3824a10368b1
+=======
+update this repo
+>>>>>>> a5cbc19 ( new update)
